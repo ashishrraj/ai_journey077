@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 My AI Journey: Zero to AI Engineer
 
 Welcome to my personal learning diary where I document my progress from **absolute beginner to advanced AI/ML Engineer**.  
@@ -35,3 +36,7 @@ This repository contains my daily notebooks, code, and reflections.
 1. Clone the repo:
    ```bash
    git clone https://github.com/<username>/ai-journey.git
+=======
+# ai_journey077
+My daily AI learning journey from zero to advanced
+>>>>>>> 8b23bbbc4ec5859669d411a825154f174096312f

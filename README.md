@@ -35,7 +35,7 @@ This repository contains my daily notebooks, code, and reflections.
 ## ▶️ How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<username>/ai-journey.git
+   git clone https://github.com/ashishrraj/ai_journey077.git
 =======
 # ai_journey077
 My daily AI learning journey from zero to advanced

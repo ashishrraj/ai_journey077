@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 My AI Journey: Zero to AI Engineer
 
 Welcome to my personal learning diary where I document my progress from **absolute beginner to advanced AI/ML Engineer**.  
@@ -18,8 +17,8 @@ This repository contains my daily notebooks, code, and reflections.
 
 | Day | Topic | Notebook | Status |
 |-----|-------|----------|--------|
-| 1   | Python Basics (variables, loops) | [day1_intro.ipynb](notebooks/day1_intro.ipynb) | ✅ Completed |
-| 2   | Pandas Basics (data analysis) | [day2_pandas.ipynb](notebooks/day2_pandas.ipynb) | 🔄 In Progress |
+| 1   | Python Basics (variables, loops) | [day1_intro.ipynb](labs/day1_intro.ipynb) | ✅ Completed |
+| 2   | Pandas Basics (data analysis) | [day2_pandas.ipynb](labs/day2_pandas.ipynb) | 🔄 In Progress |
 | 3   | Data Cleaning | Coming soon | ⏳ Planned |
 
 ---
@@ -36,7 +35,3 @@ This repository contains my daily notebooks, code, and reflections.
 1. Clone the repo:
    ```bash
    git clone https://github.com/ashishrraj/ai_journey077.git
-=======
-# ai_journey077
-My daily AI learning journey from zero to advanced
->>>>>>> 8b23bbbc4ec5859669d411a825154f174096312f

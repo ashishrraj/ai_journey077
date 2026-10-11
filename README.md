@@ -17,7 +17,7 @@ This repository contains my daily notebooks, code, and reflections.
 
 | Day | Topic | lab| Status |
 |-----|-------|----------|--------|
-| 1   | Python Basics (variables, loops) | [day1_intro.ipynb](labs/day1_intro.ipynb) | ✅ Completed |
+| 1   | Python Basics (variables, loops) | [day1_intro.ipynb](labs/day1_intro.ipynb) | ✅Completed|
 | 2   | Pandas Basics (data analysis) | [day2_pandas.ipynb](labs/day2_pandas.ipynb) | ✅ Completed |
 | 3   | Data Cleaning (Handled missing values)|[day3_data_cleaning.ipynb](labs/day3_data_cleaning.ipynb) | ✅ Completed |
 | 4 | Practice | [day4_planned.ipynb](labs/day4_planned.ipynb) |Planned|

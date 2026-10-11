@@ -15,11 +15,17 @@ This repository contains my daily notebooks, code, and reflections.
 
 ## 📅 Daily Progress Log
 
-| Day | Topic | Notebook | Status |
+| Day | Topic | lab| Status |
 |-----|-------|----------|--------|
 | 1   | Python Basics (variables, loops) | [day1_intro.ipynb](labs/day1_intro.ipynb) | ✅ Completed |
-| 2   | Pandas Basics (data analysis) | [day2_pandas.ipynb](labs/day2_pandas.ipynb) | 🔄 In Progress |
-| 3   | Data Cleaning | Coming soon | ⏳ Planned |
+| 2   | Pandas Basics (data analysis) | [day2_pandas.ipynb](labs/day2_pandas.ipynb) | ✅ Completed |
+| 3   | Data Cleaning |  Handled missing values (dropna, fillna)
+- Removed duplicates
+- Renamed columns
+- Changed data types
+- Applied transformations
+- Outlier detection using IQR |[day3_data_cleaning.ipynb](labs/day3_data_cleaning.ipynb) | ✅ Completed |
+| 4 | Practice | [day4_planned.ipynb](labs/day4_planned.ipynb) |Planned|
 
 ---
 
